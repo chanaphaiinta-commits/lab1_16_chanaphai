@@ -6,5 +6,6 @@ void main(){
   bool x = true;
 
   print("Hello , $fname $age $money $x");
+print("I Love my job💖😢😎🎶");
 
 }
